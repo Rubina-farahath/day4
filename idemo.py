@@ -1,0 +1,7 @@
+Name=input("enter a name:")
+Id=int(input("enter the emp id:"))
+designation=input("enter the designation:")
+salary=int(input("enter the salary:"))
+Bonus=int(input("enter the bonus of the employee:"))
+print(f"employee name {Name}is")
+print(f"employee id {Id}")
